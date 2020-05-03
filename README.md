@@ -1,4 +1,4 @@
-# Sweden-Folkhalsomyndigheten-Corona-data
+# Sweden-Folkhalsomyndigheten-Corona-Data
 
 XLS downloaded daily from Folkhälsomyndigheten and renamed with date. 
 
