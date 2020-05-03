@@ -1,0 +1,1 @@
+# Sweden-Folkhalsomyndigheten-Corona-data
